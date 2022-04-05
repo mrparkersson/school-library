@@ -1,18 +1,10 @@
-# React-Capstone
+# School-library
 
-> Fetch Covid API,
-> Map all data from API into ino components
-> Rendered out routes based on id
-> Display COVID cases about particular countries
+> Implement the classes to represent students and teachers.
 
 ## Built With
 
--React-js
--Redux
-
-## Online live link
-
-[Video to my demonstration](https://drive.google.com/file/d/1kzy7Sief6KqaPxV7TzpF9YeZRSjuab61/view?usp=sharing)
+-Ruby
 
 ## Getting Started
 
@@ -33,10 +25,6 @@ To get a local copy up and running follow these simple example steps.
 
 [Visit Repo](https://github.com/mrparkersson/school-library)
 
-## Deployed Web site
-
-[visit live link](https://covidapireactapp.netlify.app)
-
 ## Download Repo
 
 [Download Repo](https://github.com/mrparkersson/school-library)
@@ -56,10 +44,6 @@ Feel free to check the [issues page](https://github.com/mrparkersson/school-libr
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Inspiration: Nelson Sakwa the author of the original design
 
 ## 📝 License
 
