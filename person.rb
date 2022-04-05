@@ -18,4 +18,4 @@ class Person
   end
 
   private :of_age?
-end;
+end
